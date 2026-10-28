@@ -1,2 +1,2 @@
 # molinana
-update-apk repository official Molina
+update-apk repository Resmi Molina (molinamassage.com)
